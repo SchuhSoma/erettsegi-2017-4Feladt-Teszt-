@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\SchuhS_Info_Erettsegi_Emelt2017\SchuhS_Info_Erettsegi_Emelt2017\bin\Debug\SchuhS_Info_Erettsegi_Emelt2017.exe.config
+C:\Users\Soma\Documents\C#2\SchuhS_Info_Erettsegi_Emelt2017\SchuhS_Info_Erettsegi_Emelt2017\bin\Debug\SchuhS_Info_Erettsegi_Emelt2017.exe
+C:\Users\Soma\Documents\C#2\SchuhS_Info_Erettsegi_Emelt2017\SchuhS_Info_Erettsegi_Emelt2017\bin\Debug\SchuhS_Info_Erettsegi_Emelt2017.pdb
+C:\Users\Soma\Documents\C#2\SchuhS_Info_Erettsegi_Emelt2017\SchuhS_Info_Erettsegi_Emelt2017\obj\Debug\SchuhS_Info_Erettsegi_Emelt2017.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\SchuhS_Info_Erettsegi_Emelt2017\SchuhS_Info_Erettsegi_Emelt2017\obj\Debug\SchuhS_Info_Erettsegi_Emelt2017.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\SchuhS_Info_Erettsegi_Emelt2017\SchuhS_Info_Erettsegi_Emelt2017\obj\Debug\SchuhS_Info_Erettsegi_Emelt2017.exe
+C:\Users\Soma\Documents\C#2\SchuhS_Info_Erettsegi_Emelt2017\SchuhS_Info_Erettsegi_Emelt2017\obj\Debug\SchuhS_Info_Erettsegi_Emelt2017.pdb
